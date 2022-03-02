@@ -10,4 +10,3 @@ enjoy ;)
 
 
 Bugs:
-1. container class is overflowing when messages are exceeding.
